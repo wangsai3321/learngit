@@ -6,3 +6,4 @@ Git tracks changes of files.
 insert new line
 insert 222
 insert 333
+this is a test file
